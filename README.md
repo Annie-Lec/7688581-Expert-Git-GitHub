@@ -35,7 +35,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
